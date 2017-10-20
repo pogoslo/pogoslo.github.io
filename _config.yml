@@ -16,16 +16,14 @@
 source: src
 destination: docs
 title: PoGoSLO
-email: kolman.maks@gmail.com
+email: kolman.maks+pogoslo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Unofficial Pokemon GO site for Slovenia. It includes some user stats and
-  announcements.
   Neuradna spletna stran za Pokemon GO v Sloveniji. Na strani so statistike
   igralcev in obvestila.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "pogoslo,github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  mkolman
+github_username:  pogoslo
 
 # Build settings
 markdown: kramdown
@@ -36,7 +34,7 @@ plugins:
 disqus:
   shortname: pogoslo
 
-google_analytics: UA-NNNNNNNN-N
+google_analytics: UA-42885055-3
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

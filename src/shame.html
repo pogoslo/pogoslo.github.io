@@ -4,3 +4,143 @@ title: Telovadnice v Ljubljani
 permalink: /telovadnice/
 ---
 
+<br>
+<h1> Število trenerjev po ekipah</h1>
+<div id="userChart">
+    <div class="loading"><img src="/assets/img/loading.gif"/></div>
+    <div class="row big template">
+        <div class="label">
+            PlaceHolder
+        </div>
+        <div class="bar">
+            <div class="value" title="N/A"></div>
+        </div>
+    </div>
+</div>
+
+<br>
+<h1> Število telovadnic po ekipah </h1>
+<div id="teamChart">
+    <div class="loading"><img src="/assets/img/loading.gif"/></div>
+    <div class="row big template">
+        <div class="label">
+            PlaceHolder
+        </div>
+        <div class="bar">
+            <div class="value" title="N/A"></div>
+        </div>
+    </div>
+</div>
+
+<br>
+<h1> Zid Sramu <small> od 7. Septembra ob 12:00 </small><a style="float:right; cursor: pointer;" onclick="$('#gym-description').slideToggle();">?</a></h1>
+<div id="gym-description">
+    <a href="https://www.youtube.com/watch?v=uZ7vkmUNTPA"><img src="https://media.giphy.com/media/cMVQTH5yYus12/giphy.gif" style="width: 150px; float: right; margin-left: 10px;"/></a>
+    <p>
+    This section has to do with <b>players that have problems with
+    early evacuation</b> of enemy gyms.
+    </p>
+    <p>
+    In the current version of the game a player gets the maximum
+    reward from a gym (50 coins) after their Pokemon is in the gym
+    for a minimum of 500 minutes (8h 20min).
+    </p>
+    <p>
+    It is therefore understood that honourable trainers take down
+    enemy gyms no sooner than 500 minutes after the first Pokemon
+    has been placed to defend it.
+    </p>
+    <p>
+    Those who break the rule are worthy of shame. The graph shows
+    the number of times that player has been caught doing foul play.
+    </p>
+    <p>
+    If you know the team colour of any of the grey players you can
+    contact me via <a href="https://www.facebook.com/messages/t/maks.kolman">
+    Facebook messenger</a> to fix the error.
+    </p>
+    <p>
+    <b>Disclaimer:</b>  Gym reporting is not instant and can
+    therefore be incorrect. For example, if you take a gym and are
+    beaten in a couple of minutes your ownership of the gym may not
+    have been recorded, therefore whoever beat you will get no
+    shame.
+    </p>
+    <p>
+        <a href="https://facebook.com/groups/1641595316167745?view=permalink&id=1899516627042278"> Pokemon GO Slovenija </a>
+    </p>
+</div>
+<input type="text" placeholder="Search" onkeyup="highlight_trainers('#searchShame', '#shameChart', '#searchShameResult');" class="search" id="searchShame"/>
+<span id="searchShameResult" class="searchResult"></span>
+<div id="shameChart" class="enumerate hide expandable">
+    <div class="loading"><img src="/assets/img/loading.gif"/></div>
+    <div class="row template">
+        <div class="label"></div>
+        <div class="bar">
+            <div class="value" title="N/A"></div>
+        </div>
+    </div>
+</div>
+
+<br>
+<h1> Število telovadnic za trenerje</h1>
+<input type="text" placeholder="Search" onkeyup="highlight_trainers('#search', '#trnrChart', '#searchResult');" class="search" id="search"/>
+<span id="searchResult" class="searchResult"></span>
+<div id="trnrChart" class="enumerate hide expandable">
+    <div class="loading"><img src="/assets/img/loading.gif"/></div>
+    <div class="row template">
+        <div class="label"></div>
+        <div class="bar">
+            <div class="value" title="N/A"></div>
+        </div>
+    </div>
+</div>
+
+<br>
+<h1> Uporabniki po levelu</h1>
+<input type="text" placeholder="Search" onkeyup="highlight_trainers('#searchLvl', '#lvlChart', '#searchLvlResult');" class="search" id="searchLvl"/>
+<span id="searchLvlResult" class="searchResult"></span>
+<div id="lvlChart" class="enumerate hide">
+    <div class="loading"><img src="/assets/img/loading.gif"/></div>
+    <div class="row template">
+        <div class="label"></div>
+        <div class="bar">
+            <div class="value" title="N/A"></div>
+        </div>
+    </div>
+</div>
+
+<br>
+<h1> Najhitrejše padajoče telovadnice </h1>
+<div id="gymBadChart" class="enumerate hide expandable">
+    <div class="loading"><img src="/assets/img/loading.gif"/></div>
+    <div class="row template">
+        <div class="label"></div>
+        <div class="bar">
+            <div class="value" title="N/A"></div>
+        </div>
+    </div>
+</div>
+
+<br>
+<h1> Najdalj stoječe telovadnice </h1>
+<div id="gymChart" class="enumerate hide expandable">
+    <div class="loading"><img src="/assets/img/loading.gif"/></div>
+    <div class="row template">
+        <div class="label"></div>
+        <div class="bar">
+            <div class="value" title="N/A"></div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="/assets/js/pokemon.js"></script>
+<script type="text/javascript" src="/assets/js/utils.js"></script>
+<script type="text/javascript" src="/assets/js/shame.js"></script>
+<script type="text/javascript" src="/assets/js/gomap.js"></script>
+<script>
+
+    draw_gomap();
+    draw_shame();
+
+
+</script>

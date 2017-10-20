@@ -16,7 +16,7 @@ Stran ni povezana s to spletjo strano, vendar jo priporočamo za vspostavitev
 stika z ostalimi trenerji.
 
 V primeru, da imate kakšno vprašanje ali pripombo glede strani, lahko napišete
-[email](mailto:kolman.maks@gmail.com).
+[email](mailto:{{site.email}}).
 
 
 

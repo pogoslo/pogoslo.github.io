@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wellcome to Jekyll!"
+title:  "Začel se je dogodek za noč čarovnic!"
 date:   2017-10-20 21:00:00 +0200
 categories: dogodek "noč čarovnic"
 ---
