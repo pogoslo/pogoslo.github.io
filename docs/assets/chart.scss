@@ -1,23 +1,4 @@
-h1 small {
-    font-size: small;
-}
-h1 {
-    /*color: #ffffff;*/
-    font-family: 'Lato', sans-serif;
-    font-size: 40px;
-    font-weight: 300;
-    /*line-height: 58px;*/
-    /*margin: 0 0 58px;*/
-}
-* {
-    font-family: 'Lato', sans-serif;
-}
 
-
-#container {
-    width: 800px;
-    margin:auto;
-}
 #teamChart {
     min-height: 204px;
 }
@@ -121,7 +102,7 @@ h1 {
     height: 20px;
     padding-top: 5px;
     margin-left: 170px;
-    width: 629px;
+    // width: 629px;
 }
 
 .row.big .bar .value {
@@ -149,6 +130,7 @@ h1 {
 .row .button {
     display:none;
     font-size: 9px;
+    line-height: 10px;
     border: 1px solid #797979;
     padding: 1px;
     border-radius: 4px;
@@ -160,6 +142,7 @@ h1 {
 }
 .row .button .big {
     font-size: 17px;
+    line-height: 18px;
     float: left;
     margin-right: 5px;
 }
@@ -178,9 +161,4 @@ h1 {
 #gym-description {
     display: none;
     overflow: hidden;
-}
-
-footer {
-    margin-top: 20px;
-    color: #5e5e5e;
 }
