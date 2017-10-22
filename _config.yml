@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Neuradna spletna stran za Pokemon GO v Sloveniji. Na strani so statistike
   igralcev in obvestila.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "pogoslo,github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pogoslo,github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  pogoslo
 
