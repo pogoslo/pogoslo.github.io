@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-21T14:56:43+02:00</updated><id>http://localhost:4000/</id><title type="html">PoGoSLO</title><subtitle>Neuradna spletna stran za Pokemon GO v Sloveniji. Na strani so statistike igralcev in obvestila.</subtitle><entry><title type="html">Začel se je dogodek za noč čarovnic!</title><link href="http://localhost:4000/dogodek/2017/10/20/halloween_event.html" rel="alternate" type="text/html" title="Začel se je dogodek za noč čarovnic!" /><published>2017-10-20T21:00:00+02:00</published><updated>2017-10-20T21:00:00+02:00</updated><id>http://localhost:4000/dogodek/2017/10/20/halloween_event</id><content type="html" xml:base="http://localhost:4000/dogodek/2017/10/20/halloween_event.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/halloween2017.jpg&quot; alt=&quot;Halloween banner&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-27T11:36:47+02:00</updated><id>http://localhost:4000/</id><title type="html">PoGoSLO</title><subtitle>Neuradna spletna stran za Pokemon GO v Sloveniji. Na strani so statistike igralcev in obvestila.</subtitle><entry><title type="html">Začel se je dogodek za noč čarovnic!</title><link href="http://localhost:4000/dogodek/2017/10/20/halloween_event.html" rel="alternate" type="text/html" title="Začel se je dogodek za noč čarovnic!" /><published>2017-10-20T21:00:00+02:00</published><updated>2017-10-20T21:00:00+02:00</updated><id>http://localhost:4000/dogodek/2017/10/20/halloween_event</id><content type="html" xml:base="http://localhost:4000/dogodek/2017/10/20/halloween_event.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/halloween2017.jpg&quot; alt=&quot;Halloween banner&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Z dnem 20.10.2017 ob 21:00 se je v Pokémon GO začel dogodek za noč čarovnic.
 Dogodek se konča 2.11.2017 ob 21:00 po Slovenskem času. Točen čas do konca
@@ -22,12 +22,14 @@ lahko spremljate &lt;a href=&quot;https://www.timeanddate.com/countdown/generic?
 &lt;/ul&gt;
 
 &lt;p&gt;Veliko sreče pri lovljenju!
-&lt;a href=&quot;http://pokemongolive.com/en/post/halloween2017&quot;&gt;Uradno objava o dogodku&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Delovanje in dogovori o telovadnicah</title><link href="http://localhost:4000/pravila/telovadnice/2017/10/19/gym-system.html" rel="alternate" type="text/html" title="Delovanje in dogovori o telovadnicah" /><published>2017-10-19T12:00:00+02:00</published><updated>2017-10-19T12:00:00+02:00</updated><id>http://localhost:4000/pravila/telovadnice/2017/10/19/gym-system</id><content type="html" xml:base="http://localhost:4000/pravila/telovadnice/2017/10/19/gym-system.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/gym_rules/full_gym.png&quot; alt=&quot;Polna telovadnica&quot; /&gt;&lt;/p&gt;
+&lt;a href=&quot;http://pokemongolive.com/en/post/halloween2017&quot;&gt;Uradno objava o dogodku&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Tekmovanje za najlepše telovadnice</title><link href="http://localhost:4000/tekmovanje/telovadnice/2017/10/19/gym-system.html" rel="alternate" type="text/html" title="Tekmovanje za najlepše telovadnice" /><published>2017-10-19T12:00:00+02:00</published><updated>2017-10-19T12:00:00+02:00</updated><id>http://localhost:4000/tekmovanje/telovadnice/2017/10/19/gym-system</id><content type="html" xml:base="http://localhost:4000/tekmovanje/telovadnice/2017/10/19/gym-system.html">&lt;p&gt;&lt;img src=&quot;/assets/img/gym_rules/full_gym.png&quot; alt=&quot;Polna telovadnica&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;TODO:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:kolman.maks+pogoslo@gmail.com&quot;&gt;Pošlji nam&lt;/a&gt; zaslonsko sliko kakšne zanimive tematske
+telovadnice, ki si jo videl ali ustvaril v Ljubljani.&lt;/p&gt;
 
+&lt;p&gt;Sliko bomo objavili na tej strani, zato lahko zraven dopišeš:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;500 min == 8h 20min -&amp;gt; 50 kovancev&lt;/li&gt;
-  &lt;li&gt;Naj bo vsaj en dovolj dolgo&lt;/li&gt;
-  &lt;li&gt;Uvidevnost, da pustiš tudi dalj&lt;/li&gt;
+  &lt;li&gt;ime telovadnice, ki je na sliki,&lt;/li&gt;
+  &lt;li&gt;predlog naslova slike,&lt;/li&gt;
+  &lt;li&gt;imena enega, več, ali vseh trenerjev, ki so pripomogli.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
