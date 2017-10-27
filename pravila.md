@@ -23,13 +23,13 @@ demokratično, se določi tudi več tako imenovanih ‘modov’ (moderatorjev), 
 naloga je dodajanje novih članov. Število modov ni omejeno, skupine pa si bodo
 prizadevale, da z njimi pokrijejo različne predele Ljubljane.
 
-Poleg tega se ustanovi tako imenovani 'svet starešin', ki bi odločal o
-morebitnem izločanju članov iz sistema obveščanja. Sestavljen bi bil iz treh
+Poleg tega se ustanovi tako imenovani 'svet starešin', ki odloča o
+morebitnem izločanju članov iz sistema obveščanja. Svet je sestavljen iz treh
 članov (vsaka skupina predlaga enega), s katerimi morajo soglašati vse tri
-skupine. O morebitnih sankcijah zoper posamezne igralce bi se člani sveta
-odločali s konsenzom, administratorji pa bi te sankcije izvršili.
+skupine. O morebitnih sankcijah zoper posamezne igralce se člani sveta
+odločajo s konsenzom, administratorji pa te sankcije izvršijo.
 
-Več o sistemu Discord in njegovi uporabi si lahko preberete [tukaj](/discord/).
+Več o sistemu Discord in njegovi uporabi si preberite [tukaj](/discord/).
 
 ## 2. Splošna pravila obnašanja v skupini
 
