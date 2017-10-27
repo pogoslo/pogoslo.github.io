@@ -10,7 +10,7 @@ categories: tekmovanje telovadnice
 [Pošlji nam](mailto:{{site.email}}) zaslonsko sliko kakšne zanimive tematske
 telovadnice, ki si jo videl ali ustvaril v Ljubljani.
 
-Sliko bomo objavili na tej strani, zato zraven dopiši:
+Sliko bomo objavili na tej strani, zato lahko zraven dopišeš:
  - ime telovadnice, ki je na sliki,
  - predlog naslova slike,
  - imena enega, več, ali vseh trenerjev, ki so pripomogli.
