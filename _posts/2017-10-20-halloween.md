@@ -7,7 +7,7 @@ categories: dogodek
 slug: halloween_event
 ---
 
-![Halloween banner]({{ "/assets/img/halloween2017.jpg" | absolute_url }})
+![Halloween banner](/assets/img/halloween2017.jpg)
 
 Z dnem 20.10.2017 ob 21:00 se je v Pokémon GO začel dogodek za noč čarovnic.
 Dogodek se konča 2.11.2017 ob 21:00 po Slovenskem času. Točen čas do konca
