@@ -2,6 +2,7 @@
 layout: post
 title:  "Začel se je dogodek za noč čarovnic!"
 date:   2017-10-20 21:00:00 +0200
+description: Od 20.10.2017 ob 21:00 do 2.11.2017 ob 21:00 so v igri dvojne nagrade bonbončkov pri lovljenju, valjenju in prenašanju.
 categories: dogodek
 slug: halloween_event
 ---
