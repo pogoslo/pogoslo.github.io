@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tekmovanje za najlepše telovadnice"
+title:  "Izbor najlepših telovadnic"
 description: Pošlji nam tematske telovadnice v Ljubljani, da jih objavimo!
 date:   2017-10-19 12:00:00 +0200
 categories: tekmovanje telovadnice
