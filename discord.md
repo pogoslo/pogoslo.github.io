@@ -3,25 +3,24 @@ layout: page
 title: Discord
 permalink: /discord/
 ---
-
-Tukaj je izbranih nekaj osnovnih orodij, ki so na voljo na platformi Discord.
+Tukaj je zbranih nekaj osnovnih orodij, ki jih omogoča platforma Discord.
 
 # Kako se pridružiti?
 
-Če se nam želiš pridružiti na Discord Strežniku Pokemon GO Ljubljana, si
-najprej ustvari Discord račun in namesti njihovo aplikacijo. Vse to lahko
-narediš na [njihovi uradni spletni strani](https://discordapp.com/).
+Če se nam želiš pridružiti na Discordovem strežniku Pokémon GO Ljubljana, si
+najprej ustvari Discord račun in namesti aplikacijo. Vse to lahko narediš na
+[njihovi uradni spletni strani](https://discordapp.com/).
 
-Nato moraš v divjini Ljubljane srečati kakšnega izmed moderatorjev strežnika. Ta
-ti bo priskrbel povezavo, ki te bo pridružila pogovoru.
+Nato moraš v divjini Ljubljane srečati katerega od moderatorjev strežnika. Ta ti
+bo priskrbel povezavo, ki te bo pridružila pogovoru.
 
-Po tem, ko se pridružiš:
+Ko se pridružiš:
 
   1. se prepričaj, da je tvoj vzdevek enak uporabniškemu imenu, ki ga uporabljaš
-v Pokemon GO (ali pa si ga nastavi),
+  v Pokémon GO (ali pa si ga nastavi),
 
-  1. v kanal #splosno ali zasebno kakšnemu moderatorju sporoči svojo ekipo, da
-ti lahko dodelijo pravilno barvo.
+  2. v kanal #splosno ali kateremu od moderatorjev v zasebnem sporočilu sporoči
+  svojo ekipo, da ti lahko dodeli pravilno barvo.
 
 # Vloge uporabnikov
 
@@ -41,15 +40,15 @@ vloga, ki jo ima.
 
 # Kanali za pisno komunikacijo
 
-Oblikujejo se naslednji vsebinski kanali:
+Na strežniku so oblikovani naslednji vsebinski kanali:
 
  - #legendarni-raidi: dogovarjanje o legendarnih raidih;
  - #tier-4-raidi: dogovarjanje o tier 4 raidih;
  - #tier-3-raidi: dogovarjanje o tier 3 raidih;
  - #ex-raidi: dogovarjanje (pogovor) o EX raidih;
- - #splosno: kanal za splošni pogovor o vseh temah, povezanih s Pokemon Go;
- - #auto-pokemoni: kanal za avtomatsko obveščanje o redkih pokemonih;
- - #auto-raidi: kanal za avtomatsko obveščanje o raidih
+ - #splosno: kanal za splošni pogovor o vseh temah, povezanih s Pokémon GO;
+ - #auto-pokemoni: kanal za samodejno obveščanje o redkih pokemonih;
+ - #auto-raidi: kanal za samodejno obveščanje o raidih
  - #redki-pokemoni: kanal za objave o pokemonih s 100% ali 98% IV-ji;
  - #instinct, #valor in #mystic: kanali posameznih skupin;
  - #moderatorji: kanal za vse moderatorje;
@@ -70,11 +69,11 @@ Ljubljani.
 
 Ljubljana je razdeljena na [17 četrtnih skupnosti](https://sl.wikipedia.org/wiki/%C4%8Cetrtna_skupnost_Ljubljane).
 
-Vsak uporabnik ima možnost, da izkaže zanimanje za katero izmed njih z ukazom:<br>
+Vsak uporabnik se lahko doda v eno ali več četrtnih skupnosti z naslednjim
+ukazom:<br>
 `?zanimame <ime_četrti>`
 
-S tem ste dodani v to četrtno skupnost Ljubljane. Z enakim ukazom se lahko
-odstranite iz te četrtne skupnosti.
+Z enakim ukazom se lahko odstrani iz te četrtne skupnosti.
 
 <center>
     <img src="/assets/img/rules/zanimame.png" title="Zanimame Center"/>
@@ -82,8 +81,9 @@ odstranite iz te četrtne skupnosti.
     <b>Slika:</b> primer prijave in odjave iz Četrtne skupnosti Center.
 </center>
 
-Z znakom `@` lahko kdorkoli naslovi četrtno skupnost. Takrat bodo posebej
-obveščeni vsi, ki so del te četrtne skupnosti.
+Z znakom `@` lahko kdorkoli pošlje sporočilo trenerjem iz določene četrtne
+skupnosti. Takrat bodo posebej obveščeni vsi, ki so se dodali v to četrtno
+skupnost.
 
 <center>
     <img src="/assets/img/rules/center_tag.png" title="@Center"/>
