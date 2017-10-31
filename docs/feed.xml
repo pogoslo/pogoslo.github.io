@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-29T20:04:53+01:00</updated><id>http://localhost:4000/</id><title type="html">PoGoSLO</title><subtitle>Neuradna spletna stran za Pokemon GO v Sloveniji. Na strani so statistike igralcev in obvestila.</subtitle><entry><title type="html">Zemljevid Ljubljanskih četrti</title><link href="http://localhost:4000/zemljevid/%C4%8Detrti/telovadnice/2017/10/29/zemljevid.html" rel="alternate" type="text/html" title="Zemljevid Ljubljanskih četrti" /><published>2017-10-29T11:00:00+01:00</published><updated>2017-10-29T11:00:00+01:00</updated><id>http://localhost:4000/zemljevid/%C4%8Detrti/telovadnice/2017/10/29/zemljevid</id><content type="html" xml:base="http://localhost:4000/zemljevid/%C4%8Detrti/telovadnice/2017/10/29/zemljevid.html">&lt;p&gt;Spodaj je Google zemljevid Ljubljanskih Četrtnih Skupnosti. Na levi strani
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-31T12:54:00+01:00</updated><id>http://localhost:4000/</id><title type="html">PoGoSLO</title><subtitle>Neuradna spletna stran za Pokemon GO v Sloveniji. Na strani so statistike igralcev in obvestila.</subtitle><entry><title type="html">Zemljevid Ljubljanskih četrti</title><link href="http://localhost:4000/zemljevid_ljubljane/" rel="alternate" type="text/html" title="Zemljevid Ljubljanskih četrti" /><published>2017-10-29T11:00:00+01:00</published><updated>2017-10-29T11:00:00+01:00</updated><id>http://localhost:4000/zemljevid</id><content type="html" xml:base="http://localhost:4000/zemljevid_ljubljane/">&lt;p&gt;Spodaj je Google zemljevid Ljubljanskih Četrtnih Skupnosti. Na levi strani
 zemljevida lahko vklopite prikazovanje vseh telovadnic v Ljubljani (kot so bile
 dne 29.10.2017).&lt;/p&gt;
 
@@ -226,7 +226,7 @@ iskalnik za iskanje telovadnic v Ljubljani.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.google.si/maps/place/46.037174,14.518926&quot;&gt;Železniska Postaja Ljubljana Rakovnik&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.google.si/maps/place/46.044804,14.479902&quot;&gt;Žrtvam Fašizma&lt;/a&gt;
 &lt;!-- {: style=&quot;column-count: 3;&quot;} --&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Spodaj je Google zemljevid Ljubljanskih Četrtnih Skupnosti. Na levi strani zemljevida lahko vklopite prikazovanje vseh telovadnic v Ljubljani (kot so bile dne 29.10.2017).</summary></entry><entry><title type="html">Začel se je dogodek za noč čarovnic!</title><link href="http://localhost:4000/dogodek/2017/10/20/halloween_event.html" rel="alternate" type="text/html" title="Začel se je dogodek za noč čarovnic!" /><published>2017-10-20T21:00:00+02:00</published><updated>2017-10-20T21:00:00+02:00</updated><id>http://localhost:4000/dogodek/2017/10/20/halloween_event</id><content type="html" xml:base="http://localhost:4000/dogodek/2017/10/20/halloween_event.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/halloween2017.jpg&quot; alt=&quot;Halloween banner&quot; /&gt;&lt;/p&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Spodaj je Google zemljevid Ljubljanskih Četrtnih Skupnosti. Na levi strani zemljevida lahko vklopite prikazovanje vseh telovadnic v Ljubljani (kot so bile dne 29.10.2017).</summary></entry><entry><title type="html">Začel se je dogodek za noč čarovnic!</title><link href="http://localhost:4000/dogodek/2017/10/20/halloween_event.html" rel="alternate" type="text/html" title="Začel se je dogodek za noč čarovnic!" /><published>2017-10-20T21:00:00+02:00</published><updated>2017-10-20T21:00:00+02:00</updated><id>http://localhost:4000/dogodek/2017/10/20/halloween_event</id><content type="html" xml:base="http://localhost:4000/dogodek/2017/10/20/halloween_event.html">&lt;p&gt;&lt;img src=&quot;/assets/img/halloween2017.jpg&quot; alt=&quot;Halloween banner&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Z dnem 20.10.2017 ob 21:00 se je v Pokémon GO začel dogodek za noč čarovnic.
 Dogodek se konča 2.11.2017 ob 21:00 po Slovenskem času. Točen čas do konca
@@ -250,7 +250,7 @@ lahko spremljate &lt;a href=&quot;https://www.timeanddate.com/countdown/generic?
 &lt;/ul&gt;
 
 &lt;p&gt;Veliko sreče pri lovljenju!
-&lt;a href=&quot;http://pokemongolive.com/en/post/halloween2017&quot;&gt;Uradno objava o dogodku&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Tekmovanje za najlepše telovadnice</title><link href="http://localhost:4000/tekmovanje/telovadnice/2017/10/19/gym-system.html" rel="alternate" type="text/html" title="Tekmovanje za najlepše telovadnice" /><published>2017-10-19T12:00:00+02:00</published><updated>2017-10-19T12:00:00+02:00</updated><id>http://localhost:4000/tekmovanje/telovadnice/2017/10/19/gym-system</id><content type="html" xml:base="http://localhost:4000/tekmovanje/telovadnice/2017/10/19/gym-system.html">&lt;p&gt;&lt;a href=&quot;mailto:kolman.maks+pogoslo@gmail.com&quot;&gt;Pošlji nam&lt;/a&gt; zaslonsko sliko kakšne zanimive tematske
+&lt;a href=&quot;http://pokemongolive.com/en/post/halloween2017&quot;&gt;Uradno objava o dogodku&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Izbor najlepših telovadnic</title><link href="http://localhost:4000/tekmovanje/telovadnice/2017/10/19/gym-system.html" rel="alternate" type="text/html" title="Izbor najlepših telovadnic" /><published>2017-10-19T12:00:00+02:00</published><updated>2017-10-19T12:00:00+02:00</updated><id>http://localhost:4000/tekmovanje/telovadnice/2017/10/19/gym-system</id><content type="html" xml:base="http://localhost:4000/tekmovanje/telovadnice/2017/10/19/gym-system.html">&lt;p&gt;&lt;a href=&quot;mailto:kolman.maks+pogoslo@gmail.com&quot;&gt;Pošlji nam&lt;/a&gt; zaslonsko sliko kakšne zanimive tematske
 telovadnice, ki si jo videl ali ustvaril v Ljubljani.&lt;/p&gt;
 
 &lt;p&gt;Sliko bomo objavili na tej strani, zato lahko zraven dopišeš:&lt;/p&gt;
@@ -260,7 +260,35 @@ telovadnice, ki si jo videl ali ustvaril v Ljubljani.&lt;/p&gt;
   &lt;li&gt;imena enega, več, ali vseh trenerjev, ki so pripomogli.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;1-harden-or-die&quot;&gt;1. Harden or die&lt;/h2&gt;
+&lt;h2 id=&quot;1-eeveelutions&quot;&gt;1. Eeveelutions&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/gyms/eeveelutions.png&quot; alt=&quot;Eeveelutions&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Telovadnica: &lt;a href=&quot;https://www.google.si/maps/place/46.054226,14.519191&quot;&gt;Stone Couple&lt;/a&gt;.
+Avtor: Kravica1107. Datum. 1.10.2017&lt;/p&gt;
+
+&lt;h2 id=&quot;2-roza&quot;&gt;2. Roza&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/gyms/pinky.png&quot; alt=&quot;Pinky&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Telovadnica: &lt;a href=&quot;https://www.google.si/maps/place/46.050495,14.468604&quot;&gt;Faculty of Computer Science&lt;/a&gt;.
+Avtor: Cheboola. Datum. 24.10.2017&lt;/p&gt;
+
+&lt;h2 id=&quot;3-božič-v-oktobru&quot;&gt;3. Božič v oktobru&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/gyms/christmas.png&quot; alt=&quot;Pinky&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Telovadnica: &lt;a href=&quot;https://www.google.si/maps/place/46.042751,14.48815&quot;&gt;Milan Osredkar and Anton Peterlin Statues at IJS&lt;/a&gt;.
+Avtor: Stormcrusher94. Datum. 24.10.2017&lt;/p&gt;
+
+&lt;h2 id=&quot;4-dragonite-družina&quot;&gt;4. Dragonite družina&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/gyms/dragonite.png&quot; alt=&quot;Pinky&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Telovadnica: &lt;a href=&quot;https://www.google.si/maps/place/46.041039,14.514013&quot;&gt;Botanic Garden&lt;/a&gt;.
+Avtor: Stormcrusher94. Datum. 20.10.2017&lt;/p&gt;
+
+&lt;h2 id=&quot;5-harden-or-die&quot;&gt;5. Harden or die&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/gyms/full_gym.png&quot; alt=&quot;Polna telovadnica&quot; /&gt;&lt;/p&gt;
 
