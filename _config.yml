@@ -16,9 +16,10 @@
 source: .
 destination: docs
 title: PoGoSLO
+logo: "/assets/img/dragon_logo.png"
 email: kolman.maks+pogoslo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Neuradna spletna stran za Pokemon GO v Sloveniji. Na strani so statistike
+  Neuradna spletna stran za Pokémon GO v Sloveniji. Na strani so statistike
   igralcev in obvestila.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pogoslo,github.io" # the base hostname & protocol for your site, e.g. http://example.com
