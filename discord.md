@@ -28,8 +28,8 @@ V skupnosti obstaja naslednja hierarhija vlog:
  1. <span style="color: #e37929"><b>Starešine</b></span>
    - Demokratično izbrani člani, ki odločajo o sankcioniranju kršiteljev [pravil](/pravila/)
  1. <span style="color: #9c46b7"><b> Administratorji</b></span>
-   - Vrhovni predstavniki vsake izmed treh Pokemon GO skupin
- 1. Moderatorji (brez barve)
+   - Vrhovni predstavniki vsake izmed treh Pokémon GO skupin
+ 1. Moderatorji (imajo barvo svoje ekipe)
    - Pomočniki, ki dodajajo nove člane in jih razvrščajo v ekipe
  1. <span style="color: #f00022"><b> Valor</b></span>, <span style="color: #3568ef"><b>Mystic</b></span>, <span style="color: #f6d500"><b>Instinct</b></span>
    - Igralci posameznih ekip
@@ -90,3 +90,6 @@ skupnost.
     <br>
     <b>Slika:</b> primer naslavljanja četrtne skupnosti Center.
 </center>
+
+Oglej si [zemljevid vseh skupnosti]({{"/zemljevid_ljubljane/" | relative_url}}),
+da se lažje odločiš katera območja te zanimajo.

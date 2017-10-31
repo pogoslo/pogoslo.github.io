@@ -2,7 +2,8 @@
 layout: post
 title:  "Zemljevid Ljubljanskih četrti"
 date:   2017-10-29 12:00:00 +0200
-description: Pokemon GO Zemljevid Ljubljane, njenih četrtnih skupnosti in seznam vseh Ljubljanskih telovadnic.
+description: Pokémon GO Zemljevid Ljubljane, njenih četrtnih skupnosti in seznam vseh Ljubljanskih telovadnic.
+permalink: /zemljevid_ljubljane/
 categories: zemljevid četrti telovadnice
 ---
 
