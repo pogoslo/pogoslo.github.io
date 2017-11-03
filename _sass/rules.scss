@@ -1,0 +1,28 @@
+
+.android, .browser, .ios{
+    &.screenshot {
+        white-space: nowrap;
+        overflow-x: auto;
+        height: 500px;
+        img {
+            max-height: 100%;
+        }
+    }
+}
+
+.browser, .ios {
+    display: none;
+}
+
+.nav-buttons button{
+    margin: 0;
+    width: 33%;
+    background: #f1f1f1;
+    border: 1px solid;
+    cursor: pointer;
+    outline: none;
+    &.active {
+        background: white;
+        border-bottom: none;
+    }
+}
