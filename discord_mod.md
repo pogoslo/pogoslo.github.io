@@ -25,8 +25,8 @@ Slike za iOS še niso na voljo
 <div class="browser screenshot">
   <img src='{{"/assets/img/rules/mods/server_settings_1_browser.png" | relative_url}}'/>
   <img src='{{"/assets/img/rules/mods/instant_invite_1_browser.png" | relative_url}}'/>
-  <img style="height:50%" src='{{"/assets/img/rules/mods/instant_invite_2_browser.png" | relative_url}}'/>
-  <img style="height:50%" src='{{"/assets/img/rules/mods/instant_invite_3_browser.png" | relative_url}}'/>
+  <img style="max-height:50%" src='{{"/assets/img/rules/mods/instant_invite_2_browser.png" | relative_url}}'/>
+  <img style="max-height:50%" src='{{"/assets/img/rules/mods/instant_invite_3_browser.png" | relative_url}}'/>
 </div>
 
 
@@ -71,15 +71,4 @@ Slike za iOS še niso na voljo
   <img src='{{"/assets/img/rules/mods/change_nickname_browser.png" | relative_url}}'/>
 </div>
 
-<script type="text/javascript">
-  function changeDevice(event) {
-    console.log(event);
-    $('.nav-buttons button').removeClass("active");
-    $(event.target).addClass("active");
-    $(".screenshot").hide();
-    $(".screenshot."+$(event.target).data("show")).show();
-
-  }
-
-  $('.nav-buttons button').on("click", changeDevice);
-</script>
+<script type="text/javascript" src="{{'/assets/js/screenshot_switch.js' | relative_url}}"></script>
