@@ -236,3 +236,12 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .expandable .row:hover .button, .expandable .row.open .button { display: inline-flex; }
 
 #gym-description { display: none; overflow: hidden; }
+
+.android.screenshot, .browser.screenshot, .ios.screenshot { white-space: nowrap; overflow-x: auto; max-height: 500px; }
+.android.screenshot.android, .browser.screenshot.android, .ios.screenshot.android { height: 500px; }
+.android.screenshot img, .browser.screenshot img, .ios.screenshot img { max-height: 100%; }
+
+.browser, .ios { display: none; }
+
+.nav-buttons button { margin: 0; width: 33%; background: #f1f1f1; border: 1px solid; cursor: pointer; outline: none; }
+.nav-buttons button.active { background: white; border-bottom: none; }
