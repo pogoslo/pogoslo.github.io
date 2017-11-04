@@ -3,7 +3,10 @@
     &.screenshot {
         white-space: nowrap;
         overflow-x: auto;
-        height: 500px;
+        max-height: 500px;
+        &.android {
+            height: 500px;
+        }
         img {
             max-height: 100%;
         }

@@ -5,7 +5,7 @@ permalink: /discord/
 ---
 Tukaj je zbranih nekaj osnovnih orodij, ki jih omogoča platforma Discord.
 
-# Kako se pridružiti?
+## Kako se pridružiti?
 
 Če se nam želiš pridružiti na Discordovem strežniku Pokémon GO Ljubljana, si
 najprej ustvari Discord račun in namesti aplikacijo. Vse to lahko narediš na
@@ -17,12 +17,14 @@ bo priskrbel povezavo, ki te bo pridružila pogovoru.
 Ko se pridružiš:
 
   1. se prepričaj, da je tvoj vzdevek enak uporabniškemu imenu, ki ga uporabljaš
-  v Pokémon GO (ali pa si ga nastavi),
+  v Pokémon GO ([ali pa si ga nastavi](#spremeni-si-vzdevek)),
 
-  2. v kanal #splosno ali kateremu od moderatorjev v zasebnem sporočilu sporoči
-  svojo ekipo, da ti lahko dodeli pravilno barvo.
+  2. preberi si [pravila](/pravila/),
 
-# Vloge uporabnikov
+  3. na naslednjem raidu reči kateremu izmed moderatorjev, da ti dodelijo barvo
+  tvoje ekipe.
+
+## Vloge uporabnikov
 
 V skupnosti obstaja naslednja hierarhija vlog:
  1. <span style="color: #e37929"><b>Starešine</b></span>
@@ -38,15 +40,15 @@ Vsak uporabnik ima lahko več vlog, njegovo ime pa je takšne barve kot najvišj
 vloga, ki jo ima.
 
 
-# Kanali za pisno komunikacijo
+## Kanali za pisno komunikacijo
 
 Na strežniku so oblikovani naslednji vsebinski kanali:
 
+ - #splosno: kanal za splošni pogovor o vseh temah, povezanih s Pokémon GO;
  - #legendarni-raidi: dogovarjanje o legendarnih raidih;
  - #tier-4-raidi: dogovarjanje o tier 4 raidih;
  - #tier-3-raidi: dogovarjanje o tier 3 raidih;
  - #ex-raidi: dogovarjanje (pogovor) o EX raidih;
- - #splosno: kanal za splošni pogovor o vseh temah, povezanih s Pokémon GO;
  - #auto-pokemoni: kanal za samodejno obveščanje o redkih pokemonih;
  - #auto-raidi: kanal za samodejno obveščanje o raidih
  - #redki-pokemoni: kanal za objave o pokemonih s 100% ali 98% IV-ji;
@@ -54,6 +56,9 @@ Na strežniku so oblikovani naslednji vsebinski kanali:
  - #moderatorji: kanal za vse moderatorje;
  - #administratorji: kanal za administratorje;
  - #staresine: kanal za starešine.
+
+### Pripete objave
+
 
 S posebnimi pripetimi objavami se poleg pravil javno objavljajo druga splošna
 obvestila, kot so objave o dogodkih, sklici lure partijev ali seznam nestov v
@@ -65,7 +70,7 @@ Ljubljani.
     <b>Slika:</b> primer pripete objave
 </center>
 
-# Razdelitev na Ljubljanske mestne četrti
+## Razdelitev na Ljubljanske mestne četrti
 
 Ljubljana je razdeljena na [17 četrtnih skupnosti](https://sl.wikipedia.org/wiki/%C4%8Cetrtna_skupnost_Ljubljane).
 
@@ -93,3 +98,27 @@ skupnost.
 
 Oglej si [zemljevid vseh skupnosti]({{"/zemljevid_ljubljane/" | relative_url}}),
 da se lažje odločiš katera območja te zanimajo.
+
+## Spremeni si vzdevek
+<button class="active" data-show="android">Android</button><button data-show="ios">iOS</button><button data-show="browser">Brskalnik</button>
+{: class="nav-buttons"}
+
+<div class="android screenshot">
+  <img src='{{"/assets/img/rules/mods/change_own_nickname_1_android.png" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/mods/change_own_nickname_2_android.png" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/mods/change_own_nickname_3_android.png" | relative_url}}'/>
+</div>
+
+<div class="ios screenshot">
+Slike za iOS še niso na voljo
+</div>
+
+<div class="browser screenshot">
+  <img src='{{"/assets/img/rules/mods/server_settings_1_browser.png" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/mods/change_own_nickname_1_browser.png" | relative_url}}'/>
+  <img style="max-height:50%" src='{{"/assets/img/rules/mods/change_own_nickname_2_browser.png" | relative_url}}'/>
+</div>
+
+
+<script type="text/javascript" src="{{'/assets/js/screenshot_switch.js' | relative_url}}"></script>
+
