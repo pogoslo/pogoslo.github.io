@@ -22,21 +22,14 @@ Sliko bomo objavili na tej strani, zato lahko zraven dopišeš:
 Telovadnica: [Stone Couple](https://www.google.si/maps/place/46.054226,14.519191).
 Avtor: Kravica1107. Datum. 1.10.2017
 
-## 2. Roza
-
-![Pinky]({{"/assets/img/gyms/pinky.png" | relative_url}})
-
-Telovadnica: [Faculty of Computer Science](https://www.google.si/maps/place/46.050495,14.468604).
-Avtor: Cheboola. Datum. 24.10.2017
-
-## 3. Božič v oktobru
+## 2. Božič v oktobru
 
 ![Pinky]({{"/assets/img/gyms/christmas.png" | relative_url}})
 
 Telovadnica: [Milan Osredkar and Anton Peterlin Statues at IJS](https://www.google.si/maps/place/46.042751,14.48815).
 Avtor: Stormcrusher94. Datum. 24.10.2017
 
-## 4. Dragonite družina
+## 3. Dragonite družina
 
 ![Pinky]({{"/assets/img/gyms/dragonite.png" | relative_url}})
 
@@ -44,10 +37,37 @@ Telovadnica: [Botanic Garden](https://www.google.si/maps/place/46.041039,14.5140
 Avtor: Stormcrusher94. Datum. 20.10.2017
 
 
-## 5. Harden or die
+## 4. Harden or die
 
 ![Polna telovadnica](/assets/img/gyms/full_gym.png)
 
 Telovadnica: [PST - DK Modna Oblačila](https://www.google.com/maps/?daddr=46.037849,14.465525).
 Avtor: KolmanMaks
 
+## 5. Roza
+
+![Pinky]({{"/assets/img/gyms/pinky.png" | relative_url}})
+
+Telovadnica: [Faculty of Computer Science](https://www.google.si/maps/place/46.050495,14.468604).
+Avtor: Cheboola. Datum. 24.10.2017
+
+## 6. Zelena
+
+![Zelena telovadnica](/assets/img/gyms/green.png)
+
+Telovadnica: [Ljubljana James Joyce October 19th 1904](https://www.google.si/maps/place/46.058189,14.512661).
+Avtor: Deawellyn
+
+## 7. Vijolična
+
+![Vijolična telovadnica](/assets/img/gyms/purple.png)
+
+Telovadnica: [Ljubljana Main Post Office](https://www.google.si/maps/place/46.052231,14.503468).
+Avtor: Skywalker1978
+
+## 8. Modra
+
+![Modra telovadnica](/assets/img/gyms/blue.png)
+
+Telovadnica: [Strange Statue](https://www.google.si/maps/place/46.055061,14.502546).
+Avtor: Skywalker1978
