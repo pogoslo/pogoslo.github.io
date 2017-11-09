@@ -15,6 +15,20 @@ Sliko bomo objavili na tej strani, zato lahko zraven dopišeš:
  - predlog naslova slike,
  - imena enega, več, ali vseh trenerjev, ki so pripomogli.
 
+Nerealizirane ideje za tematske telovadnice:
+ - [Baby pokémoni](https://pokemongo.gamepress.gg/pichu-togepi-event)
+ - Vseh šest zadnjih evolucij starter pokémonov
+ - Shiny Pokémoni
+ - Vseh šest evolucij obeh starterjev prve in druge generacije enega tipa
+ - Psevdolegendarni družini ([larvitar](https://pokemongohub.net/generation-2/pokemon-go-larvitar-pupitar-tyranitar-overview/) in [dratini](https://bulbapedia.bulbagarden.net/wiki/Dratini_(Pok%C3%A9mon)#Evolution))
+ - Pichu, Pikachu in Raichu z [enako kapo](https://www.google.si/search?q=hat+pikachu+pokemon+go&tbm=isch)
+ - Telovadnica **polna** [zelenih pokémonov](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Green)
+ - [Rumeni pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Yellow)
+ - [Rdeči pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Red)
+ - [Rjavi pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Brown)
+ - [Sivi pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Gray)
+ - [Beli pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#White)
+
 ## 1. Eeveelutions
 
 ![Eeveelutions]({{"/assets/img/gyms/eeveelutions.png" | relative_url}})
