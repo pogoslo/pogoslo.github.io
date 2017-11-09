@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-04T22:21:21+01:00</updated><id>http://localhost:4000/</id><title type="html">PoGoSLO</title><subtitle>Neuradna spletna stran za Pokémon GO v Sloveniji. Na strani so statistike igralcev in obvestila.</subtitle><entry><title type="html">Zemljevid Ljubljanskih četrti</title><link href="http://localhost:4000/zemljevid_ljubljane/" rel="alternate" type="text/html" title="Zemljevid Ljubljanskih četrti" /><published>2017-10-29T11:00:00+01:00</published><updated>2017-10-29T11:00:00+01:00</updated><id>http://localhost:4000/zemljevid</id><content type="html" xml:base="http://localhost:4000/zemljevid_ljubljane/">&lt;p&gt;Spodaj je Google zemljevid Ljubljanskih Četrtnih Skupnosti. Na levi strani
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-09T09:58:07+01:00</updated><id>http://localhost:4000/</id><title type="html">PoGoSLO</title><subtitle>Neuradna spletna stran za Pokémon GO v Sloveniji. Na strani so statistike igralcev in obvestila.</subtitle><entry><title type="html">Zemljevid Ljubljanskih četrti</title><link href="http://localhost:4000/zemljevid_ljubljane/" rel="alternate" type="text/html" title="Zemljevid Ljubljanskih četrti" /><published>2017-10-29T11:00:00+01:00</published><updated>2017-10-29T11:00:00+01:00</updated><id>http://localhost:4000/zemljevid</id><content type="html" xml:base="http://localhost:4000/zemljevid_ljubljane/">&lt;p&gt;Spodaj je Google zemljevid Ljubljanskih Četrtnih Skupnosti. Na levi strani
 zemljevida lahko vklopite prikazovanje vseh telovadnic v Ljubljani (kot so bile
 dne 29.10.2017).&lt;/p&gt;
 
@@ -260,6 +260,22 @@ telovadnice, ki si jo videl ali ustvaril v Ljubljani.&lt;/p&gt;
   &lt;li&gt;imena enega, več, ali vseh trenerjev, ki so pripomogli.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;Nerealizirane ideje za tematske telovadnice:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pokemongo.gamepress.gg/pichu-togepi-event&quot;&gt;Baby pokémoni&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Vseh šest zadnjih evolucij starter pokémonov&lt;/li&gt;
+  &lt;li&gt;Shiny Pokémoni&lt;/li&gt;
+  &lt;li&gt;Vseh šest evolucij obeh starterjev prve in druge generacije enega tipa&lt;/li&gt;
+  &lt;li&gt;Psevdolegendarni družini (&lt;a href=&quot;https://pokemongohub.net/generation-2/pokemon-go-larvitar-pupitar-tyranitar-overview/&quot;&gt;larvitar&lt;/a&gt; in &lt;a href=&quot;https://bulbapedia.bulbagarden.net/wiki/Dratini_(Pok%C3%A9mon)#Evolution&quot;&gt;dratini&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Pichu, Pikachu in Raichu z &lt;a href=&quot;https://www.google.si/search?q=hat+pikachu+pokemon+go&amp;amp;tbm=isch&quot;&gt;enako kapo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Telovadnica &lt;strong&gt;polna&lt;/strong&gt; &lt;a href=&quot;https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Green&quot;&gt;zelenih pokémonov&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Yellow&quot;&gt;Rumeni pokémoni&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Red&quot;&gt;Rdeči pokémoni&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Brown&quot;&gt;Rjavi pokémoni&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Gray&quot;&gt;Sivi pokémoni&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#White&quot;&gt;Beli pokémoni&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;1-eeveelutions&quot;&gt;1. Eeveelutions&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/gyms/eeveelutions.png&quot; alt=&quot;Eeveelutions&quot; /&gt;&lt;/p&gt;
@@ -267,30 +283,51 @@ telovadnice, ki si jo videl ali ustvaril v Ljubljani.&lt;/p&gt;
 &lt;p&gt;Telovadnica: &lt;a href=&quot;https://www.google.si/maps/place/46.054226,14.519191&quot;&gt;Stone Couple&lt;/a&gt;.
 Avtor: Kravica1107. Datum. 1.10.2017&lt;/p&gt;
 
-&lt;h2 id=&quot;2-roza&quot;&gt;2. Roza&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/gyms/pinky.png&quot; alt=&quot;Pinky&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Telovadnica: &lt;a href=&quot;https://www.google.si/maps/place/46.050495,14.468604&quot;&gt;Faculty of Computer Science&lt;/a&gt;.
-Avtor: Cheboola. Datum. 24.10.2017&lt;/p&gt;
-
-&lt;h2 id=&quot;3-božič-v-oktobru&quot;&gt;3. Božič v oktobru&lt;/h2&gt;
+&lt;h2 id=&quot;2-božič-v-oktobru&quot;&gt;2. Božič v oktobru&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/gyms/christmas.png&quot; alt=&quot;Pinky&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Telovadnica: &lt;a href=&quot;https://www.google.si/maps/place/46.042751,14.48815&quot;&gt;Milan Osredkar and Anton Peterlin Statues at IJS&lt;/a&gt;.
 Avtor: Stormcrusher94. Datum. 24.10.2017&lt;/p&gt;
 
-&lt;h2 id=&quot;4-dragonite-družina&quot;&gt;4. Dragonite družina&lt;/h2&gt;
+&lt;h2 id=&quot;3-dragonite-družina&quot;&gt;3. Dragonite družina&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/gyms/dragonite.png&quot; alt=&quot;Pinky&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Telovadnica: &lt;a href=&quot;https://www.google.si/maps/place/46.041039,14.514013&quot;&gt;Botanic Garden&lt;/a&gt;.
 Avtor: Stormcrusher94. Datum. 20.10.2017&lt;/p&gt;
 
-&lt;h2 id=&quot;5-harden-or-die&quot;&gt;5. Harden or die&lt;/h2&gt;
+&lt;h2 id=&quot;4-harden-or-die&quot;&gt;4. Harden or die&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/gyms/full_gym.png&quot; alt=&quot;Polna telovadnica&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Telovadnica: &lt;a href=&quot;https://www.google.com/maps/?daddr=46.037849,14.465525&quot;&gt;PST - DK Modna Oblačila&lt;/a&gt;.
-Avtor: KolmanMaks&lt;/p&gt;</content><author><name></name></author><summary type="html">Pošlji nam zaslonsko sliko kakšne zanimive tematske telovadnice, ki si jo videl ali ustvaril v Ljubljani.</summary></entry></feed>
+Avtor: KolmanMaks&lt;/p&gt;
+
+&lt;h2 id=&quot;5-roza&quot;&gt;5. Roza&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/gyms/pinky.png&quot; alt=&quot;Pinky&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Telovadnica: &lt;a href=&quot;https://www.google.si/maps/place/46.050495,14.468604&quot;&gt;Faculty of Computer Science&lt;/a&gt;.
+Avtor: Cheboola. Datum. 24.10.2017&lt;/p&gt;
+
+&lt;h2 id=&quot;6-zelena&quot;&gt;6. Zelena&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/gyms/green.png&quot; alt=&quot;Zelena telovadnica&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Telovadnica: &lt;a href=&quot;https://www.google.si/maps/place/46.058189,14.512661&quot;&gt;Ljubljana James Joyce October 19th 1904&lt;/a&gt;.
+Avtor: Deawellyn&lt;/p&gt;
+
+&lt;h2 id=&quot;7-vijolična&quot;&gt;7. Vijolična&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/gyms/purple.png&quot; alt=&quot;Vijolična telovadnica&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Telovadnica: &lt;a href=&quot;https://www.google.si/maps/place/46.052231,14.503468&quot;&gt;Ljubljana Main Post Office&lt;/a&gt;.
+Avtor: Skywalker1978&lt;/p&gt;
+
+&lt;h2 id=&quot;8-modra&quot;&gt;8. Modra&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/gyms/blue.png&quot; alt=&quot;Modra telovadnica&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Telovadnica: &lt;a href=&quot;https://www.google.si/maps/place/46.055061,14.502546&quot;&gt;Strange Statue&lt;/a&gt;.
+Avtor: Skywalker1978&lt;/p&gt;</content><author><name></name></author><summary type="html">Pošlji nam zaslonsko sliko kakšne zanimive tematske telovadnice, ki si jo videl ali ustvaril v Ljubljani.</summary></entry></feed>
