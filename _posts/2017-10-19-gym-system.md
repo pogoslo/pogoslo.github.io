@@ -23,8 +23,8 @@ Nerealizirane ideje za tematske telovadnice:
  - Psevdolegendarni družini ([larvitar](https://pokemongohub.net/generation-2/pokemon-go-larvitar-pupitar-tyranitar-overview/) in [dratini](https://bulbapedia.bulbagarden.net/wiki/Dratini_(Pok%C3%A9mon)#Evolution))
  - Pichu, Pikachu in Raichu z [enako kapo](https://www.google.si/search?q=hat+pikachu+pokemon+go&tbm=isch)
  - Telovadnica **polna** [zelenih pokémonov](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Green)
+ - Telovadnica polna [rdečih pokémonov](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Red)
  - [Rumeni pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Yellow)
- - [Rdeči pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Red)
  - [Rjavi pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Brown)
  - [Sivi pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Gray)
  - [Beli pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#White)
@@ -85,3 +85,10 @@ Avtor: Skywalker1978
 
 Telovadnica: [Strange Statue](https://www.google.si/maps/place/46.055061,14.502546).
 Avtor: Skywalker1978
+
+## 8. Rdeča
+
+![Rdeča telovadnica](/assets/img/gyms/blue.png)
+
+Telovadnica: [Ljubljana Srečko Potnik Plaque](https://www.google.si/maps/place/46.056355,14.508749).
+Avtor: Deawellyn
