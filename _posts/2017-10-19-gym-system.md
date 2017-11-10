@@ -88,7 +88,7 @@ Avtor: Skywalker1978
 
 ## 8. Rdeča
 
-![Rdeča telovadnica](/assets/img/gyms/blue.png)
+![Rdeča telovadnica](/assets/img/gyms/red.png)
 
 Telovadnica: [Ljubljana Srečko Potnik Plaque](https://www.google.si/maps/place/46.056355,14.508749).
 Avtor: Deawellyn
