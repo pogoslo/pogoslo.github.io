@@ -18,7 +18,6 @@ Sliko bomo objavili na tej strani, zato lahko zraven dopišeš:
 Nerealizirane ideje za tematske telovadnice:
  - [Baby pokémoni](https://pokemongo.gamepress.gg/pichu-togepi-event)
  - Vseh šest zadnjih evolucij starter pokémonov
- - Shiny Pokémoni
  - Vseh šest evolucij obeh starterjev prve in druge generacije enega tipa
  - Psevdolegendarni družini ([larvitar](https://pokemongohub.net/generation-2/pokemon-go-larvitar-pupitar-tyranitar-overview/) in [dratini](https://bulbapedia.bulbagarden.net/wiki/Dratini_(Pok%C3%A9mon)#Evolution))
  - Pichu, Pikachu in Raichu z [enako kapo](https://www.google.si/search?q=hat+pikachu+pokemon+go&tbm=isch)
@@ -92,3 +91,10 @@ Avtor: Skywalker1978
 
 Telovadnica: [Ljubljana Srečko Potnik Plaque](https://www.google.si/maps/place/46.056355,14.508749).
 Avtor: Deawellyn
+
+## 9. Shiny
+
+![Shiny telovadnica](/assets/img/gyms/shiny.png)
+
+Telovadnica: [Hombre](https://www.google.si/maps/place/46.039562,14.486952).
+Avtor: Azummarill
