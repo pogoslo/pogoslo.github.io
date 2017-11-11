@@ -27,6 +27,7 @@ Nerealizirane ideje za tematske telovadnice:
  - [Rjavi pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Brown)
  - [Sivi pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Gray)
  - [Beli pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#White)
+ - [Črni pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Black)
 
 ## 1. Eeveelutions
 
@@ -85,14 +86,14 @@ Avtor: Skywalker1978
 Telovadnica: [Strange Statue](https://www.google.si/maps/place/46.055061,14.502546).
 Avtor: Skywalker1978
 
-## 8. Rdeča
+## 9. Rdeča
 
 ![Rdeča telovadnica](/assets/img/gyms/red.png)
 
 Telovadnica: [Ljubljana Srečko Potnik Plaque](https://www.google.si/maps/place/46.056355,14.508749).
 Avtor: Deawellyn
 
-## 9. Shiny
+## 10. Shiny
 
 ![Shiny telovadnica](/assets/img/gyms/shiny.png)
 
