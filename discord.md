@@ -70,7 +70,57 @@ Ljubljani.
     <b>Slika:</b> primer pripete objave
 </center>
 
-## Razdelitev na Ljubljanske mestne četrti
+## Nastavljanje obvestil
+
+Na discordu si lahko nastavite kako pogosto želite prejemati obvestila o novih
+objavah. Sistem podpira tri nivoje obveščanja:
+ - **vse**: obveščeni boste o vsaki novi objavi
+ - **@mention**: obveščeni boste o vsaki objavi, v kateri vas kdo omeni, ali
+ kakšno vašo skupino (glej [mestne četrti](#razdelitev-na-ljubljanske-mestne-četrti))
+ - **nič**: ne boste obveščeni o nobeni objavi
+
+### Na vseh kanalih
+<button class="active" data-show="android">Android</button><button data-show="ios">iOS</button><button data-show="browser">Brskalnik</button>
+{: class="nav-buttons"}
+
+<div class="android screenshot">
+  <img src='{{"/assets/img/rules/android_server_settings_1.png" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/android_server_settings_2.png" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/android_server_settings_3.png" | relative_url}}'/>
+</div>
+
+<div class="ios screenshot">
+Slike za iOS še niso na voljo
+</div>
+
+<div class="browser screenshot">
+  <img src='{{"/assets/img/rules/browser_notification_settings_1.png" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/browser_notification_settings_2.png" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/browser_server_settings_3.png" | relative_url}}'/>
+</div>
+
+### Za vsak kanal posebej
+<button class="active" data-show="android">Android</button><button data-show="ios">iOS</button><button data-show="browser">Brskalnik</button>
+{: class="nav-buttons"}
+
+<div class="android screenshot">
+  <img src='{{"/assets/img/rules/android_channel_settings_1.png" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/android_channel_settings_2.png" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/android_channel_settings_3.png" | relative_url}}'/>
+</div>
+
+<div class="ios screenshot">
+Slike za iOS še niso na voljo
+</div>
+
+<div class="browser screenshot">
+  <img src='{{"/assets/img/rules/browser_notification_settings_1.png" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/browser_notification_settings_2.png" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/browser_channel_settings_3.png" | relative_url}}'/>
+</div>
+
+
+### Razdelitev na Ljubljanske mestne četrti
 
 Ljubljana je razdeljena na [17 četrtnih skupnosti](https://sl.wikipedia.org/wiki/%C4%8Cetrtna_skupnost_Ljubljane).
 
