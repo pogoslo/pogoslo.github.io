@@ -22,7 +22,7 @@ Nerealizirane ideje za tematske telovadnice:
  - Psevdolegendarni družini ([larvitar](https://pokemongohub.net/generation-2/pokemon-go-larvitar-pupitar-tyranitar-overview/) in [dratini](https://bulbapedia.bulbagarden.net/wiki/Dratini_(Pok%C3%A9mon)#Evolution))
  - Pichu, Pikachu in Raichu z [enako kapo](https://www.google.si/search?q=hat+pikachu+pokemon+go&tbm=isch)
  - Telovadnica **polna** [zelenih pokémonov](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Green)
- - Telovadnica polna [rdečih pokémonov](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Red)
+ - Telovadnica **polna** [rdečih pokémonov](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Red)
  - [Rumeni pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Yellow)
  - [Rjavi pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Brown)
  - [Sivi pokémoni](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color#Gray)
