@@ -33,8 +33,10 @@ cekinov čim večjemu številu trenerjev v telovadnici.
 Vsako tretjo soboto v mesecu zgoraj zapisano pravilo ne velja in trenerji lahko
 zavzamejo vsako telovadnico, ki jo želijo. Namen te izjeme je narediti borbo v
 telovadnicah enkrat na mesec bolj zabavno in hkrati prispevati k sprostitvi
-oziroma razelektritvi vzdušja v skupnosti. Za EX raide so se vse tri skupine
-dogovorile za rotacijo barve telovadnice po naslednjem zaporedju:
+oziroma razelektritvi vzdušja v skupnosti.
+
+Za EX raide so se vse tri skupine dogovorile za rotacijo barve telovadnice po
+naslednjem zaporedju:
  2. <span style="color: #f6d500;">rumena</span> telovadnica,
  3. <span style="color: #3568ef;">modra</span> telovadnica,
  1. <span style="color: #f00022;">rdeča</span> telovadnica,
