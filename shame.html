@@ -70,6 +70,7 @@ permalink: /telovadnice/
         <a href="https://facebook.com/groups/1641595316167745?view=permalink&id=1899516627042278"> Pokemon GO Slovenija </a>
     </p>
 </div>
+Čas do <a href="/pravila/#2-bojevanje-v-telovadnicah">tretje sobote</a>: <span id="countdown"></span> <br/>
 <input type="text" placeholder="Search" onkeyup="highlight_trainers('#searchShame', '#shameChart', '#searchShameResult');" class="search" id="searchShame"/>
 <span id="searchShameResult" class="searchResult"></span>
 <div id="shameChart" class="enumerate hide expandable">
@@ -139,8 +140,30 @@ permalink: /telovadnice/
 <script type="text/javascript" src="/assets/js/gomap.js"></script>
 <script>
 
+    var countdownDate = new Date("2017-11-18 00:00:00").getTime();
+    var countdownEl = $("#countdown");
+    setInterval(function() {
+
+        // Get todays date and time
+        var now = new Date().getTime();
+
+        // Find the distance between now an the count down date
+        var distance = countdownDate - now;
+        distance = Math.max(0, distance);
+
+        // Time calculations for days, hours, minutes and seconds
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        // Display the result in the element with id="demo"
+        countdownEl.html(days + "d " + hours + "h " + minutes + "m " + seconds + "s ");
+
+    }, 1000);
+
+
     draw_gomap();
     draw_shame();
-
 
 </script>
