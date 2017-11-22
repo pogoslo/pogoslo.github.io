@@ -60,7 +60,6 @@ Slike za iOS še niso na voljo
   <img src='{{"/assets/img/rules/mods/change_nickname.png" | relative_url}}'/>
 </div>
 
-
 <div class="ios screenshot">
 Slike za iOS še niso na voljo
 </div>
