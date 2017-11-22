@@ -99,3 +99,10 @@ Avtor: Deawellyn
 
 Telovadnica: [Hombre](https://www.google.si/maps/place/46.039562,14.486952).
 Avtor: Azummarill
+
+## 11. Valilnica
+
+![Valilnica](/assets/img/gyms/hatching.png)
+
+Telovadnica: [Prst](https://www.google.si/maps/place/46.050591,14.487803).
+Avtor: Kebabzhder
