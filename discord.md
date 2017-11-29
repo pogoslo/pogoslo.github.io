@@ -90,7 +90,9 @@ objavah. Sistem podpira tri nivoje obveščanja:
 </div>
 
 <div class="ios screenshot">
-Slike za iOS še niso na voljo
+  <img src='{{"/assets/img/rules/ios_global_notifications/step_1.JPG" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/ios_global_notifications/step_2.JPG" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/ios_global_notifications/step_3.PNG" | relative_url}}'/>
 </div>
 
 <div class="browser screenshot">
@@ -110,7 +112,9 @@ Slike za iOS še niso na voljo
 </div>
 
 <div class="ios screenshot">
-Slike za iOS še niso na voljo
+  <img src='{{"/assets/img/rules/ios_channel_notifications/step_1.JPG" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/ios_channel_notifications/step_2.JPG" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/ios_channel_notifications/step_3.PNG" | relative_url}}'/>
 </div>
 
 <div class="browser screenshot">
@@ -160,7 +164,9 @@ da se lažje odločiš katera območja te zanimajo.
 </div>
 
 <div class="ios screenshot">
-Slike za iOS še niso na voljo
+  <img src='{{"/assets/img/rules/ios_change_nickname/step_1.JPG" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/ios_change_nickname/step_2.JPG" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/ios_change_nickname/step_3.PNG" | relative_url}}'/>
 </div>
 
 <div class="browser screenshot">

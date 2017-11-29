@@ -19,7 +19,10 @@ discord serverja.
 </div>
 
 <div class="ios screenshot">
-Slike za iOS še niso na voljo
+  <img src='{{"/assets/img/rules/mods/ios_new_user/step_1.jpg" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/mods/ios_new_user/step_2.jpg" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/mods/ios_new_user/step_3.jpg" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/mods/ios_new_user/step_4.jpg" | relative_url}}'/>
 </div>
 
 <div class="browser screenshot">
@@ -41,7 +44,11 @@ Slike za iOS še niso na voljo
 </div>
 
 <div class="ios screenshot">
-Slike za iOS še niso na voljo
+  <img src='{{"/assets/img/rules/mods/ios_add_role/step_1.JPG" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/mods/ios_add_role/step_2.JPG" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/mods/ios_add_role/step_3.JPG" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/mods/ios_add_role/step_4.JPG" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/mods/ios_add_role/step_5.JPG" | relative_url}}'/>
 </div>
 
 <div class="browser screenshot">
@@ -61,7 +68,11 @@ Slike za iOS še niso na voljo
 </div>
 
 <div class="ios screenshot">
-Slike za iOS še niso na voljo
+  <img src='{{"/assets/img/rules/mods/ios_change_nickname/step_1.JPG" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/mods/ios_change_nickname/step_2.JPG" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/mods/ios_change_nickname/step_3.JPG" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/mods/ios_change_nickname/step_4.JPG" | relative_url}}'/>
+  <img src='{{"/assets/img/rules/mods/ios_change_nickname/step_5.JPG" | relative_url}}'/>
 </div>
 
 <div class="browser screenshot">
