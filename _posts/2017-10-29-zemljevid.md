@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Zemljevid Ljubljanskih četrti"
+title:  "Zemljevid Ljubljane"
 date:   2017-10-29 12:00:00 +0200
-description: Pokémon GO Zemljevid Ljubljane, njenih četrtnih skupnosti in seznam vseh Ljubljanskih telovadnic.
+description: Pokémon GO Zemljevid Ljubljane, njenih četrtnih skupnosti, dobrih lokacij za postavljanje lurov in seznam vseh Ljubljanskih telovadnic.
 permalink: /zemljevid_ljubljane/
 categories: zemljevid četrti telovadnice
 ---
@@ -22,6 +22,14 @@ __Slika:__ Primer iskanja po telovadnicah
 
 [my-maps-ljubljana]: https://drive.google.com/open?id=11A4rxXoPonFJsarV1jiKnkL7fe0&usp=sharing
 
+## Zemljevid lokacij v dosegu treh ali štirih pokestopov
+
+Na spodnjem zemljevidu so z rdečo označene vse lokacije od koder lahko dosežemo
+štiri pokestope. Z zeleno so označene lokacije v bližini treh pokestopov.
+
+Takšne lokacije so idealne za postavljanje lurov in organizacijo lure partyjev.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1jjPx9oc4o4kRKuK33HgDsG23nsAuzfai" width="640" height="480"></iframe>
 
 ## Seznam vseh Ljubljanskih telovadnic po abecedi
 
