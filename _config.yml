@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 source: .
 destination: docs
-title: Pokemon GO Ljubljana
+title: Pokémon GO Ljubljana
 logo: "/assets/img/dragon_logo.png"
 email: info@pokemongo.si
 description: >- # this means to ignore newlines until "baseurl:"
