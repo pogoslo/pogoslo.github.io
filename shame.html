@@ -140,7 +140,24 @@ permalink: /telovadnice/
 <script type="text/javascript" src="/assets/js/gomap.js"></script>
 <script>
 
-    var countdownDate = new Date("2017-12-16 00:00:00").getTime();
+    function getCountDownDate() {
+        var current = new Date();
+        current.setHours(0);
+        current.setMinutes(0);
+        current.setSeconds(0);
+        current.setMilliseconds(0);
+        var three_weeks = new Date(current.getTime()), two_weeks = new Date(current.getTime());
+        three_weeks.setDate(three_weeks.getDate()-21);
+        two_weeks.setDate(two_weeks.getDate()-14);
+        while (current.getDay() != 6 || two_weeks.getMonth() == three_weeks.getMonth()) {
+            three_weeks.setDate(three_weeks.getDate()+1);
+            two_weeks.setDate(two_weeks.getDate()+1);
+            current.setDate(current.getDate()+1);
+        }
+        return current;
+    }
+
+    var countdownDate = getCountDownDate().getTime();
     var countdownEl = $("#countdown");
     setInterval(function() {
 
