@@ -38,6 +38,8 @@ disqus:
 
 google_analytics: UA-42885055-3
 
+exclude: [vendor]
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
