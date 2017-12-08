@@ -53,8 +53,8 @@ pridem', 'moram še prej nekaj pojest in pod tuš' in podobno).
 
 Ko potrjuješ udeležbo, uporabljaj poseben emoji za ta raid ali z besedo zapiši,
 za kateri raid se javljaš. Primer: raid na gymu Julija Primicova ima naslednji
-emoji: <img src="/assets/img/ghost.svg" style="height: 1.5em"/>. Ko potrjuješ
-udeležbo za ta raid, napiši ‘<img src="/assets/img/ghost.svg" style="height:
+emoji: <img alt="duhec" src="/assets/img/ghost.svg" style="height: 1.5em"/>. Ko potrjuješ
+udeležbo za ta raid, napiši ‘<img alt="duhec" src="/assets/img/ghost.svg" style="height:
 1.5em"/> +1’ ali ‘julija +1’).
 
 Ko se udeležiš raida, bodi pripravljen/a počakati pet minut na morebitne

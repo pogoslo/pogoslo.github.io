@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Izbor najlepših telovadnic"
-description: Pošlji nam tematske telovadnice v Ljubljani, da jih objavimo!
 date:   2017-10-19 12:00:00 +0200
+description: Pošlji nam tematske telovadnice v Ljubljani, da jih objavimo!
+permalink: /najlepse_telovadnice/
 categories: tekmovanje telovadnice
-permalink: najlepse_telovadnice
 ---
 
 

@@ -65,7 +65,7 @@ obvestila, kot so objave o dogodkih, sklici lure partijev ali seznam nestov v
 Ljubljani.
 
 <center>
-    <img src="/assets/img/rules/pinned_red.png" title="Pripete objave"/>
+    <img src="/assets/img/rules/pinned_red.png" title="Pripete objave" alt="Pripete objave"/>
     <br>
     <b>Slika:</b> primer pripete objave
 </center>
@@ -84,21 +84,21 @@ objavah. Sistem podpira tri nivoje obveščanja:
 {: class="nav-buttons"}
 
 <div class="android screenshot">
-  <img src='{{"/assets/img/rules/android_server_settings_1.png" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/android_server_settings_2.png" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/android_server_settings_3.png" | relative_url}}'/>
+  <img alt='Obvestila' src='{{"/assets/img/rules/android_server_settings_1.png" | relative_url}}'/>
+  <img alt='Obvestila' src='{{"/assets/img/rules/android_server_settings_2.png" | relative_url}}'/>
+  <img alt='Obvestila' src='{{"/assets/img/rules/android_server_settings_3.png" | relative_url}}'/>
 </div>
 
 <div class="ios screenshot">
-  <img src='{{"/assets/img/rules/ios_global_notifications/step_1.JPG" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/ios_global_notifications/step_2.JPG" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/ios_global_notifications/step_3.PNG" | relative_url}}'/>
+  <img alt='Obvestila' src='{{"/assets/img/rules/ios_global_notifications/step_1.JPG" | relative_url}}'/>
+  <img alt='Obvestila' src='{{"/assets/img/rules/ios_global_notifications/step_2.JPG" | relative_url}}'/>
+  <img alt='Obvestila' src='{{"/assets/img/rules/ios_global_notifications/step_3.PNG" | relative_url}}'/>
 </div>
 
 <div class="browser screenshot">
-  <img src='{{"/assets/img/rules/browser_notification_settings_1.png" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/browser_notification_settings_2.png" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/browser_server_settings_3.png" | relative_url}}'/>
+  <img alt='Obvestila' src='{{"/assets/img/rules/browser_notification_settings_1.png" | relative_url}}'/>
+  <img alt='Obvestila' src='{{"/assets/img/rules/browser_notification_settings_2.png" | relative_url}}'/>
+  <img alt='Obvestila' src='{{"/assets/img/rules/browser_server_settings_3.png" | relative_url}}'/>
 </div>
 
 ### Za vsak kanal posebej
@@ -106,21 +106,21 @@ objavah. Sistem podpira tri nivoje obveščanja:
 {: class="nav-buttons"}
 
 <div class="android screenshot">
-  <img src='{{"/assets/img/rules/android_channel_settings_1.png" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/android_channel_settings_2.png" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/android_channel_settings_3.png" | relative_url}}'/>
+  <img alt='obvestila' src='{{"/assets/img/rules/android_channel_settings_1.png" | relative_url}}'/>
+  <img alt='obvestila' src='{{"/assets/img/rules/android_channel_settings_2.png" | relative_url}}'/>
+  <img alt='obvestila' src='{{"/assets/img/rules/android_channel_settings_3.png" | relative_url}}'/>
 </div>
 
 <div class="ios screenshot">
-  <img src='{{"/assets/img/rules/ios_channel_notifications/step_1.JPG" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/ios_channel_notifications/step_2.JPG" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/ios_channel_notifications/step_3.PNG" | relative_url}}'/>
+  <img alt='obvestila' src='{{"/assets/img/rules/ios_channel_notifications/step_1.JPG" | relative_url}}'/>
+  <img alt='obvestila' src='{{"/assets/img/rules/ios_channel_notifications/step_2.JPG" | relative_url}}'/>
+  <img alt='obvestila' src='{{"/assets/img/rules/ios_channel_notifications/step_3.PNG" | relative_url}}'/>
 </div>
 
 <div class="browser screenshot">
-  <img src='{{"/assets/img/rules/browser_notification_settings_1.png" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/browser_notification_settings_2.png" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/browser_channel_settings_3.png" | relative_url}}'/>
+  <img alt='obvestila' src='{{"/assets/img/rules/browser_notification_settings_1.png" | relative_url}}'/>
+  <img alt='obvestila' src='{{"/assets/img/rules/browser_notification_settings_2.png" | relative_url}}'/>
+  <img alt='obvestila' src='{{"/assets/img/rules/browser_channel_settings_3.png" | relative_url}}'/>
 </div>
 
 
@@ -135,7 +135,7 @@ ukazom:<br>
 Z enakim ukazom se lahko odstrani iz te četrtne skupnosti.
 
 <center>
-    <img src="/assets/img/rules/zanimame.png" title="Zanimame Center"/>
+    <img alt='Ljubljana' src="/assets/img/rules/zanimame.png" title="Zanimame Center"/>
     <br>
     <b>Slika:</b> primer prijave in odjave iz Četrtne skupnosti Center.
 </center>
@@ -145,7 +145,7 @@ skupnosti. Takrat bodo posebej obveščeni vsi, ki so se dodali v to četrtno
 skupnost.
 
 <center>
-    <img src="/assets/img/rules/center_tag.png" title="@Center"/>
+    <img alt='Ljubljana' src="/assets/img/rules/center_tag.png" title="@Center"/>
     <br>
     <b>Slika:</b> primer naslavljanja četrtne skupnosti Center.
 </center>
@@ -158,21 +158,21 @@ da se lažje odločiš katera območja te zanimajo.
 {: class="nav-buttons"}
 
 <div class="android screenshot">
-  <img src='{{"/assets/img/rules/mods/change_own_nickname_1_android.png" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/mods/change_own_nickname_2_android.png" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/mods/change_own_nickname_3_android.png" | relative_url}}'/>
+  <img alt='Vzdevek' src='{{"/assets/img/rules/mods/change_own_nickname_1_android.png" | relative_url}}'/>
+  <img alt='Vzdevek' src='{{"/assets/img/rules/mods/change_own_nickname_2_android.png" | relative_url}}'/>
+  <img alt='Vzdevek' src='{{"/assets/img/rules/mods/change_own_nickname_3_android.png" | relative_url}}'/>
 </div>
 
 <div class="ios screenshot">
-  <img src='{{"/assets/img/rules/ios_change_nickname/step_1.JPG" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/ios_change_nickname/step_2.JPG" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/ios_change_nickname/step_3.PNG" | relative_url}}'/>
+  <img alt='Vzdevek' src='{{"/assets/img/rules/ios_change_nickname/step_1.JPG" | relative_url}}'/>
+  <img alt='Vzdevek' src='{{"/assets/img/rules/ios_change_nickname/step_2.JPG" | relative_url}}'/>
+  <img alt='Vzdevek' src='{{"/assets/img/rules/ios_change_nickname/step_3.PNG" | relative_url}}'/>
 </div>
 
 <div class="browser screenshot">
-  <img src='{{"/assets/img/rules/mods/server_settings_1_browser.png" | relative_url}}'/>
-  <img src='{{"/assets/img/rules/mods/change_own_nickname_1_browser.png" | relative_url}}'/>
-  <img style="max-height:50%" src='{{"/assets/img/rules/mods/change_own_nickname_2_browser.png" | relative_url}}'/>
+  <img alt='Vzdevek' src='{{"/assets/img/rules/mods/server_settings_1_browser.png" | relative_url}}'/>
+  <img alt='Vzdevek' src='{{"/assets/img/rules/mods/change_own_nickname_1_browser.png" | relative_url}}'/>
+  <img style="max-height:50%" alt='Vzdevek' src='{{"/assets/img/rules/mods/change_own_nickname_2_browser.png" | relative_url}}'/>
 </div>
 
 
