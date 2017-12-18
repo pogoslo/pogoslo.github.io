@@ -35,14 +35,9 @@ zavzamejo vsako telovadnico, ki jo želijo. Namen te izjeme je narediti borbo v
 telovadnicah enkrat na mesec bolj zabavno in hkrati prispevati k sprostitvi
 oziroma razelektritvi vzdušja v skupnosti.
 
-Za EX raide so se vse tri skupine dogovorile za rotacijo barve telovadnice po
-naslednjem zaporedju:
- 2. <span style="color: #f6d500;">rumena</span> telovadnica,
- 3. <span style="color: #3568ef;">modra</span> telovadnica,
- 1. <span style="color: #f00022;">rdeča</span> telovadnica,
- 4. zabavna telovadnica, kjer ni pravil (obvelja barva skupine, ki jo uspe osvojiti)
- 5. potem se vrstni red ponovi
-
+Na telovadnicah kjer so v kratkem napovedani EX raidi pravilo 8:20 ne velja.
+Vsaka ekipa ima pred raidom možnost zavzeti telovadnico in si zagotoviti dve
+dodatni žogi.
 
 ## 3. Udeležba na raidih
 
