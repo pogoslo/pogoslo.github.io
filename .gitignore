@@ -2,3 +2,5 @@
 *.sublime-workspace
 *.sublime-project
 /docs
+/vendor
+/.bundle
